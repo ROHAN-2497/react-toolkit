@@ -1,5 +1,4 @@
 import { createSlice } from "@reduxjs/toolkit";
-import logger from "redux-logger";
 
 const initialState = {
   count: 0,
