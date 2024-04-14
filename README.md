@@ -11,3 +11,4 @@ Currently, two official plugins are available:
   kk
   sd
   sd
+  sdd
