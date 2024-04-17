@@ -14,6 +14,6 @@ Currently, two official plugins are available:
   sdd
   sd
   sdi
-  l
+
   kk
   sd
