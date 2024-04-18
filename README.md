@@ -13,6 +13,6 @@ Currently, two official plugins are available:
   sd
   sdd
   sd
-  salxkkjdjskld
+  salxkkjdjskldlkdnlans
   kk
   sd
