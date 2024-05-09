@@ -16,3 +16,4 @@ Currently, two official plugins are available:
   salxkkjdjskldlkdnlansasjdilx;nj
   kk
   sd
+  ss
